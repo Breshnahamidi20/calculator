@@ -8,7 +8,7 @@
 
 [Live Demo](https://whimsical-stardust-89c712.netlify.app/)
 
-![Screenshot]()
+![Screenshot](1.png)
 
 ## Technologies Used 🛠️
 
