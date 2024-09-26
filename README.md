@@ -6,7 +6,7 @@
 
 ## Demo 📸
 
-[Live Demo]()
+[Live Demo](https://whimsical-stardust-89c712.netlify.app/)
 
 ![Screenshot]()
 
